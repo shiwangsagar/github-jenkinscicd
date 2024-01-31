@@ -30,7 +30,7 @@
             ]
         }
     },
-    "forwardPorts": [8080],
+    "forwardPorts": [8080,32400],
     "postCreateCommand": "./install-jenkins.sh",
     "remoteUser": "vscode" 
 }
